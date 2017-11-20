@@ -12,7 +12,32 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
-#home {background: url('../img/calf.jpg') no-repeat center center fixed;
+#home {background: url('../img/sunsetcalf.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;}
+#about {background: url('../img/sunset.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;}
+#blog {background: url('../img/winter.jpeg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;}
+#cart {background: url('../img/cowgirlsun.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;}
+#checkout {background: url('../img/hay.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;}
+#contact {background: url('../img/redsnow.jpg') no-repeat center center fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 background-size: cover;
