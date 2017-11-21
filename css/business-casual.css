@@ -139,6 +139,9 @@ footer {
 footer p {
     margin: 0;
     padding: 50px 0;
+    text-transform: uppercase;
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px
 }
 
 @media screen and (min-width:768px) {
@@ -218,4 +221,17 @@ footer p {
         display: table;
         clear: both;
     }
+}
+.panel-info>.panel-heading {
+    background-color: transparent;
+    border-color: #999;
+}
+footer a, footer a:visited {
+  color: #333;
+}
+footer a:hover {
+  color: #999;
+}
+.brand, .address-bar {
+  background-color: rgba(0,0,0,0.1);
 }
